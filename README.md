@@ -1,6 +1,6 @@
 # House Prices: Advanced Regression Techniques
 
-**Author:** Tatev SURNAME
+**Author:** Tatev Poghosyan
 **Course:** Picsart AI/ML Course: Classical Machine Learning, final project
 **Competition:** [Kaggle: House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
@@ -79,4 +79,3 @@ Full table: `results/model_comparison.csv`.
 - Dean De Cock, *Ames, Iowa: Alternative to the Boston Housing Data* (Journal of Statistics Education, 2011): outlier recommendation
 - scikit-learn, XGBoost and LightGBM documentation
 - Course materials (Picsart AI/ML course)
-- **AI tools:** Claude (Anthropic) helped with code structure, plots and text. I reviewed every step and can explain it.
